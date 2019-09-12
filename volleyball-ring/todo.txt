@@ -1,0 +1,1 @@
+1. Change external diameter to internal plus 1.2mm ~ 17.4 + 1.2 = 18.6mm
